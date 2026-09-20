@@ -1,5 +1,8 @@
 # Customer churn prediction assignment
 
+- **GitHub repo:** [https://github.com/ankush02nagarro/TelcoCustomerChurn](https://github.com/ankush02nagarro/TelcoCustomerChurn)
+- **Working demo video:** [https://nagarro-my.sharepoint.com/:v:/p/ankush02/IQDnW7SowHuoQoRqFn6d2S4KATjQdFP_WMrW0gY6V0mBmRw?e=igNdeh](https://nagarro-my.sharepoint.com/:v:/p/ankush02/IQDnW7SowHuoQoRqFn6d2S4KATjQdFP_WMrW0gY6V0mBmRw?e=igNdeh)
+
 This project implements the assignment shown in the supplied screenshots. It uses the standard IBM Telco Customer Churn columns, a 70:30 stratified split, `random_state=42`, Decision Trees, a saved preprocessing/model pipeline, and FastAPI.
 
 **Start here:** put your actual customer CSV in `data/telco_churn.csv`, install the dependencies, and run the notebook top to bottom. This download contains complete source code and an unexecuted notebook. Your actual dataset, fitted model, numerical results and sample response are generated/provided when you run it; they are not fabricated in advance.
