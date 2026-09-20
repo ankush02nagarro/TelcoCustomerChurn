@@ -1,0 +1,51 @@
+,importance
+categorical__Contract_Month-to-month,0.5687688935627766
+numeric__tenure,0.11198814100541983
+categorical__InternetService_Fiber optic,0.09472086419876884
+numeric__MonthlyCharges,0.05895472490717294
+numeric__TotalCharges,0.029946952658589945
+categorical__OnlineSecurity_No,0.02278890331632238
+categorical__TechSupport_No,0.0207471308761654
+categorical__PaymentMethod_Electronic check,0.020294855070363275
+categorical__InternetService_No,0.015403615869526955
+categorical__Contract_One year,0.013014608378326025
+categorical__StreamingMovies_No,0.00940727505132023
+categorical__StreamingMovies_Yes,0.00621443327588458
+categorical__PaymentMethod_Mailed check,0.004764582747051201
+categorical__OnlineSecurity_Yes,0.004334618021598334
+categorical__MultipleLines_No,0.004148237564622656
+categorical__Dependents_No,0.0038750153272991243
+categorical__PaperlessBilling_Yes,0.0033338260020245257
+categorical__OnlineBackup_No,0.00220681567738365
+numeric__SeniorCitizen,0.0014257046405893239
+categorical__gender_Male,0.0013990796035100778
+categorical__TenureGroup_25-48 months,0.000956983856157481
+categorical__TechSupport_Yes,0.0007104647300198369
+categorical__Dependents_Yes,0.0005942736591066726
+categorical__InternetService_DSL,0.0
+categorical__Partner_No,0.0
+categorical__Partner_Yes,0.0
+categorical__gender_Female,0.0
+categorical__MultipleLines_Yes,0.0
+categorical__MultipleLines_No phone service,0.0
+categorical__PhoneService_Yes,0.0
+categorical__PhoneService_No,0.0
+numeric__ServiceCount,0.0
+categorical__OnlineSecurity_No internet service,0.0
+categorical__OnlineBackup_No internet service,0.0
+categorical__StreamingTV_Yes,0.0
+categorical__StreamingTV_No internet service,0.0
+categorical__StreamingTV_No,0.0
+categorical__TechSupport_No internet service,0.0
+categorical__DeviceProtection_No internet service,0.0
+categorical__DeviceProtection_Yes,0.0
+categorical__OnlineBackup_Yes,0.0
+categorical__DeviceProtection_No,0.0
+categorical__PaperlessBilling_No,0.0
+categorical__Contract_Two year,0.0
+categorical__StreamingMovies_No internet service,0.0
+categorical__PaymentMethod_Credit card (automatic),0.0
+categorical__PaymentMethod_Bank transfer (automatic),0.0
+categorical__TenureGroup_0-12 months,0.0
+categorical__TenureGroup_13-24 months,0.0
+categorical__TenureGroup_49+ months,0.0

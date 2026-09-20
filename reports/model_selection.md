@@ -1,0 +1,1 @@
+Selected Regularized balanced: mean validation F2=0.690 (SD 0.016), recall=0.762, precision=0.499. This has the highest mean F2 among the specified candidates, matching the stated recall-focused objective. Its training-minus-validation F2 gap is 0.055; a large positive gap suggests overfitting. The test set was not used to choose it.
